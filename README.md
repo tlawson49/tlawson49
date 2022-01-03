@@ -1,4 +1,4 @@
-# Lil Tyler
+# 🔥LIL ΓУLΞЯ🔥 (@tlawson09)
 
 ## Places to Find Me
 
@@ -6,7 +6,8 @@
 - [Github](https://github.com/tlawson49)
 - [Repl.it](https://replit.com/@tlawson09)
 
-## Technologies I Use
+## Languages/Programs I Use
+
 ![html](https://img.shields.io/badge/-HTML5-grey?logo=html5&style=for-the-badge)
 ![css](https://img.shields.io/badge/-CSS3-grey?logo=css3&style=for-the-badge)
 ![javascript](https://img.shields.io/badge/-Javascript-grey?logo=javascript&style=for-the-badge)
