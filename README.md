@@ -20,5 +20,5 @@
 ![Codepen](https://img.shields.io/badge/-CodePen-grey?logo=codepen&style=for-the-badge) 
 ![Google](https://img.shields.io/badge/-DeveloperConsole-grey?logo=google&style=for-the-badge) 
 
-## StreakS
+## Streaks
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tlawson49&theme=dark)](https://git.io/streak-stats)
