@@ -21,4 +21,5 @@
 ![Google](https://img.shields.io/badge/-DeveloperConsole-grey?logo=google&style=for-the-badge) 
 
 ## Streaks
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tlawson49&theme=dark)](https://git.io/streak-stats)
