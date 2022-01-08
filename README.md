@@ -1,5 +1,7 @@
 # 🔥LIL ΓУLΞЯ🔥 (@tlawson09)
 
+![Profile Views](https://komarev.com/ghpvc/?username=tlawson49)
+
 ## Places to Find Me
 
 - [Khan Academy](https://www.khanacademy.org/profile/tlawson09/)
@@ -19,6 +21,6 @@
 ![Replit](https://img.shields.io/badge/-Replit-grey?logo=replit&style=for-the-badge)
 ![Codepen](https://img.shields.io/badge/-CodePen-grey?logo=codepen&style=for-the-badge) 
 
-## Streaks
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tlawson49&theme=dark)](https://git.io/streak-stats)
+
+![Tyler L's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tlawson49&show_icons=true&theme=highcontrast)
