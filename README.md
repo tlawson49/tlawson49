@@ -3,8 +3,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tlawson49)
 
-[![Github](https://img.shields.io/github/followers/tlawson49?label=Follow&style=social)](https://github.com/tlawson49)
-
 ## Places to Find Me
 
 - [Khan Academy](https://www.khanacademy.org/profile/tlawson09/)
