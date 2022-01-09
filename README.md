@@ -1,3 +1,4 @@
+
 # 🔥LIL ΓУLΞЯ🔥 (@tlawson09)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tlawson49)
@@ -10,18 +11,18 @@
 - [Github](https://github.com/tlawson49)
 - [Repl.it](https://replit.com/@tlawson09)
 
-## Languages/Programs I Use
+## Programming Languages
 
 ![html](https://img.shields.io/badge/-HTML5-grey?logo=html5&style=for-the-badge)
 ![css](https://img.shields.io/badge/-CSS3-grey?logo=css3&style=for-the-badge)
 ![javascript](https://img.shields.io/badge/-Javascript-grey?logo=javascript&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-NodeJS-grey?logo=node.js&style=for-the-badge)
 ![jquery](https://img.shields.io/badge/-jQuery-grey?logo=jQuery&style=for-the-badge)
 ![p5.js](https://img.shields.io/badge/-P5.js-grey?logo=p5.js&style=for-the-badge)
 ![python](https://img.shields.io/badge/-Python-grey?logo=python&style=for-the-badge)
 ![Github](https://img.shields.io/badge/-Github-grey?logo=github&style=for-the-badge)
-![Replit](https://img.shields.io/badge/-Replit-grey?logo=replit&style=for-the-badge)
-![Codepen](https://img.shields.io/badge/-CodePen-grey?logo=codepen&style=for-the-badge) 
+![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
+
+## Statistics
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tlawson49&theme=dark)](https://git.io/streak-stats)
 
@@ -34,3 +35,22 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tlawson49)  
 
 ![GitHub Metrics](https://metrics.lecoq.io/tlawson49)  
+
+## Social Media
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+![SnapChat](https://img.shields.io/badge/SnapChat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+![PlayStation Network](https://img.shields.io/badge/PlayStation-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
+
+## Miscellaneous
+
+![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
+![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
