@@ -2,6 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tlawson49)
 
+[![Github](https://img.shields.io/github/followers/tlawson49?label=Follow&style=social)](https://github.com/tlawson49)
+
 ## Places to Find Me
 
 - [Khan Academy](https://www.khanacademy.org/profile/tlawson09/)
@@ -24,3 +26,11 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tlawson49&theme=dark)](https://git.io/streak-stats)
 
 ![Tyler L's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tlawson49&show_icons=true&theme=highcontrast)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tlawson49)  
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=tlawson49)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tlawson49)  
+
+![GitHub Metrics](https://metrics.lecoq.io/tlawson49)  
