@@ -44,4 +44,3 @@
 ![SnapChat](https://img.shields.io/badge/SnapChat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-![PlayStation Network](https://img.shields.io/badge/PlayStation-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
