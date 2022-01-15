@@ -8,6 +8,7 @@
 - [Khan Academy](https://www.khanacademy.org/profile/tlawson09/)
 - [Github](https://github.com/tlawson49)
 - [Repl.it](https://replit.com/@tlawson09)
+- [Ko Fi](https://ko-fi.com/tlawson09)
 
 ## Programming Languages
 
@@ -44,3 +45,7 @@
 ![SnapChat](https://img.shields.io/badge/SnapChat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+
+## Other
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N87YD57)
